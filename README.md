@@ -6,12 +6,12 @@ This is the time for you to take a listen, write things down, ask any question t
 
 ## Why Readme?
 I believe every complex piece of code should be properly documented, so it would be easier to understand and maintain. Humans are even more complex than any piece of code you can find, so why not have documentation to help people interact with each other better?
-This is my documentation for you :))
+This is my documentation for you :).
 
 ## About me
-I'm Moshiko 25yo, I'm T1D since I was 11yo,
-I started my SW career at the Israeli ministry of defense, where I served as a software developer for 2 years. I joined DreaMed right after I finished my military service, as a junior SW developer and made my way up :).
-I'm an off-road driver, motor lover, and amateur photographer.
+I'm Moshiko 26yo, I'm T1D since I was 11yo,
+I started my SW career at the Israeli ministry of defense, where I served as a software developer for 2 years. I joined DreaMed right after I finished my military service, as a junior SW developer and work my way up :).
+I'm an off-road driver, motor lover, and an amateur photographer.
 
 ### My Role
 My Role is divided into two sections:
@@ -22,10 +22,11 @@ As a part of my role, I will provide you context on your tasks and I will be you
 2.	**Tech role** - It is my responsibility to make sure we are building an amazing, scalable, and maintainable product. As part of this responsibility, I would make sure your code is being reviewed and validated according to code conventions and business requirements. I will be here to answer any tech/architecture questions you may have.
 
 
-### What I value most?
+### What I Do I Expect from you?
 - **End to End Ownership** - When you as a developer is getting a new task, I expect you to understand the full context of the mission. This is because when you understand the full context (tech and product) you can bring up solutions or issues that will affect the feature development as well as help us build a better product for our customers.
 - **Be Loyal to the team** - Conflicts and bugs are part of a programmer job. When such a thing happens, I need you to remember **no one** is looking for someone to blame. We are all in the same life-boat that needs to be steered together to the best land we can find. If someone did wrong, we will help him/her to fix and learn from the mistake.
 - **Boy scout Rule** - There are some rules that I follow, one of them is the "Boy scout Rule". This is a rule taken from the US Boy scouts and it goes like this: when the Boy scouts is leaving a camping zone they leave the place cleaner than it was before. When you get a task in the codebase, I expect you to leave it cleaner than it was when you got it. This would make our codebase cleaner and cleaner with every feature we add.
+- **CI** - I believe that each one of us and the team as a whole should be in a process of Continues improvement at all times, which means every feedback, suggestion, comment, you have to me, or to any team process, I would be more than happy to hear it and take it under consideration.
 
 ### Personal quirks
  -   **I argue with “passion”** -I may raise my voice a little. I don’t like it about myself, and I try to improve. That may happen because I like the product, and it's important to me to make sure we do it as good as we can. If you feel I crossed the line, tell me. It’s not my intent.
