@@ -5,7 +5,7 @@ You are now starting a new chapter in your career in our company,
 This is the time for you to take a listen, write things down, ask any question that comes to your head and get to know the team and company.
 
 ## Why Readme?
-I believe every complex piece of code should be properly documented, so it would be easier to understand and maintain. Humans are even more complex than any piece of code you can find, so why not have documentation to help people interact with you better?
+I believe every complex piece of code should be properly documented, so it would be easier to understand and maintain. Humans are even more complex than any piece of code you can find, so why not have documentation to help people interact with each other better?
 This is my documentation for you :))
 
 ## About me
