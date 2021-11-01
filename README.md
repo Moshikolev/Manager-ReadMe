@@ -23,13 +23,13 @@ As a part of my role, I will provide you context on your tasks and I will be you
 
 
 ### What I Do I Expect from you?
-- **End to End Ownership** - When you as a developer is getting a new task, I expect you to understand the full context of the mission. This is because when you understand the full context (tech and product) you can bring up solutions or issues that will affect the feature development as well as help us build a better product for our customers.
-- **Be Loyal to the team** - Conflicts and bugs are part of a programmer job. When such a thing happens, I need you to remember **no one** is looking for someone to blame. We are all in the same life-boat that needs to be steered together to the best land we can find. If someone did wrong, we will help him/her to fix and learn from the mistake.
+- **End to End Ownership** - When you as a developer are getting a new task, I expect you to understand the full context of the mission. This is because when you understand the full context (tech and product) you can bring up solutions or issues that will affect the feature development as well as help us build a better product for our customers.
+- **Be Loyal to the team** - Conflicts and bugs are part of a programmer's job. When such a thing happens, I need you to remember **no one** is looking for someone to blame. We are all in the same boat that needs to be steered together to the best land we can find. If someone did wrong, we will help him/her fix and learn from the mistake.
 - **Boy scout Rule** - There are some rules that I follow, one of them is the "Boy scout Rule". This is a rule taken from the US Boy scouts and it goes like this: when the Boy scouts is leaving a camping zone they leave the place cleaner than it was before. When you get a task in the codebase, I expect you to leave it cleaner than it was when you got it. This would make our codebase cleaner and cleaner with every feature we add.
-- **CI** - I believe that each one of us and the team as a whole should be in a process of Continues improvement at all times, which means every feedback, suggestion, comment, you have to me, or to any team process, I would be more than happy to hear it and take it under consideration.
+- **CI** - I believe that each one of us and the team as a whole should be in a process of "Continues Improvement" at all times, which means every feedback, suggestion, comment, you have to me, or to any team process, I would be more than happy to hear it and take it under consideration.
 
 ### Personal quirks
- -   **I argue with “passion”** -I may raise my voice a little. I don’t like it about myself, and I try to improve. That may happen because I like the product, and it's important to me to make sure we do it as good as we can. If you feel I crossed the line, tell me. It’s not my intent.
+ -   **I argue with “passion”** -I may raise my voice a little. I don’t like it about myself, and I try to improve. That may happen because I like the product, and it's important to me to make sure we do it as good as we can. If you feel I crossed the line, please let me know. It’s not my intent.
  - **I have the memory and attention span of a goldfish**- I have the memory and attention span of a goldfish- The only way I can be productive is by constantly taking notes. If you see me typing while we're talking, I'm not browsing Facebook, just trying to record what we're saying so I can reflect and process it later on.
 
 ### 1:1s
