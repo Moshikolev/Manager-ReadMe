@@ -10,7 +10,7 @@ This is my documentation for you :).
 
 ## About me
 I'm Moshiko 26yo, I'm T1D since I was 11yo,
-I started my SW career at the Israeli ministry of defense, where I served as a software developer for 2 years. I joined DreaMed right after I finished my military service, as a junior SW developer and work my way up :).
+I started my SW career at the Israeli ministry of defense, where I served as a software developer for 2 years. I joined DreaMed right after I finished my military service, as a junior SW developer and worked my way up :).
 I'm an off-road driver, motor lover, and an amateur photographer.
 
 ### My Role
