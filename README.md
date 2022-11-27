@@ -2,7 +2,7 @@
 ## Welcome!
 Hi! Welcome to the team, I'm very happy to have you here, and I'm sure we will build amazing things together.
 You are now starting a new chapter in your career in our company,
-This is the time for you to take a listen, write things down, **ask any question** that comes to your head and get to know the team and company.
+This is the time for you to take a listen, write things down, **ask any question** that comes to your mind and get to know the team and company.
 
 ## Why Readme?
 I believe every complex piece of code should be properly documented, so it would be easier to understand and maintain. Humans are even more complex than any piece of code you can find, so why not have documentation to help people interact with each other better?
@@ -35,5 +35,5 @@ As a part of my role, I will provide you context on your tasks and I will be you
 ### 1:1s
 1:1s are **your** meetings. This is your place to talk about anything that's bothering you or you want to share.
 Those meetings won't be about status updates, we would talk about your career goals and how we can help you achieve them.
-For us to be productive in our 1:1s, I want you to be prepared: prepare questions, thoughts, or any other agenda.
+For us to be productive in our 1:1s, I want you to be prepared: prepare questions, suggestions, initiativs, thoughts, or any other agenda.
 But don't worry, if you won't, I will navigate the conversation :).
