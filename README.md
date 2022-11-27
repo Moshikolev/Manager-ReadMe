@@ -30,7 +30,7 @@ As a part of my role, I will provide you context on your tasks and I will be you
 
 ### Personal quirks
  -   **I argue with “passion”** -I may raise my voice a little. I don’t like it about myself, and I try to improve. That may happen because I like the product, and it's important to me to make sure we do it as good as we can. If you feel I crossed the line, please let me know. It’s not my intent.
- - **I have the memory and attention span of a goldfish**- I have the memory and attention span of a goldfish- The only way I can be productive is by constantly taking notes. If you see me typing while we're talking, I'm not browsing Facebook, just trying to record what we're saying so I can reflect and process it later on.
+ - **I have the memory and attention span of a goldfish**- The only way I can be productive is by constantly taking notes. If you see me typing while we're talking, I'm not browsing Facebook, just trying to record what we're saying so I can reflect and process it later on.
 
 ### 1:1s
 1:1s are **your** meetings. This is your place to talk about anything that's bothering you or you want to share.
